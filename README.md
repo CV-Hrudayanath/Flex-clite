@@ -21,7 +21,7 @@ The code also ignores whitespaces , tab , newline and comments. <br/>
 2) Now a file lex.yy.c will be generated. Run generated c code using the command <br/>
   $ gcc lex.yy.c -ll <br/>
 
-3) Give filename as a argument to a.out 
+3) Give filename as a argument to a.out </br>
   $./a.out Sampleprogram.c <br/> 
  
 
