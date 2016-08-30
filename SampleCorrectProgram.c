@@ -14,7 +14,7 @@ fdfsdfsdfsd
 //   
   */
 
-    // Just like I said, Do not print this
+    //  Dont print this
 
     while (x) {
     x = x/2;
